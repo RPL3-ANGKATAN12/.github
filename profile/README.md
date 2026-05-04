@@ -44,8 +44,9 @@ Organisasi ini dibuat untuk:
 Setiap siswa memiliki repository masing-masing dengan format:
 
 ```bash
-[nama]-[project]
+[NAMA_LENGKAP]-[JUDUL_PROJECT]
 ```
+Contoh : SHASWAN_KHAN-PENGADUAN_SARANA_SEKOLAH
 
 ---
 
